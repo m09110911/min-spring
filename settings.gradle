@@ -1,0 +1,4 @@
+rootProject.name = 'min-spring'
+include 'min-spring-core'
+include 'min-spring-beans'
+
